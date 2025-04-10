@@ -12,6 +12,6 @@ int main() {
     std::cout << "Multiplication: " << calc.multiply(a, b) << std::endl;
 
     std::cout << "This is a new feature from dev branch." << std::endl;
-
+    std::cout << "老铁666";
     return 0;
 }
